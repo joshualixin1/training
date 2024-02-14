@@ -9,4 +9,5 @@ some descripton!
 # GitHub Flow exercises
 
 # continue github exercise
-
+# today is a good day
+# today is sunny
